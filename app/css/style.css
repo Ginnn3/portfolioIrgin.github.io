@@ -555,7 +555,7 @@ form .send-btn:hover {
   .navlist.active {
     right: 10%;
   } */
-   header {
+/*    header {
     padding: 20px 5%;
   }
   header.sticky {
@@ -600,7 +600,7 @@ form .send-btn:hover {
   }
   .main-content p {
     width: 100%;
-  }
+  } */
 }
 
 @media (max-width: 680px) {
