@@ -555,52 +555,6 @@ form .send-btn:hover {
   .navlist.active {
     right: 10%;
   } */
-/*    header {
-    padding: 20px 5%;
-  }
-  header.sticky {
-    padding: 14px 5%;
-  }
-  section {
-    padding: 90px 5% 0%;
-  }
-  .footer {
-    padding: 18px 5%;
-  }
-  .hero {
-    height: 90vh;
-    background-position: center;
-  }
-  .navlist {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-    flex-direction: column;
-    background: var(--bg-color);
-  }
-  .navlist.active {
-    display: flex;
-  }
-  .navlist a {
-    padding: 14px;
-    font-size: 14px;
-    margin: 0;
-  }
-  #menu-icon {
-    display: block;
-  }
-  .about {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-  .about-img img {
-    height: 300px;
-  }
-  .main-content p {
-    width: 100%;
-  } */
 }
 
 @media (max-width: 680px) {
