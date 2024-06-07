@@ -235,6 +235,16 @@
     </div>
 
     <!-- Link JS -->
+     <script>
+    function toggleMenu() {
+      const navlist = document.getElementById('navlist');
+      navlist.classList.toggle('active');
+    }
+
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
       AOS.init({
